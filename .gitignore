@@ -1,0 +1,13 @@
+// Ignorar la carpeta de dependencias
+node_modules/
+
+// Archivos de configuración de entorno
+.env
+
+// Archivos de sistema
+.DS_Store
+Thumbs.db
+
+// Carpetas de salida de compilación
+dist/
+build/
